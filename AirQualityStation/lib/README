@@ -38,6 +38,7 @@ int main (void)
 }
 
 ```
+some changes
 
 PlatformIO Library Dependency Finder will find automatically dependent
 libraries scanning project source files.
